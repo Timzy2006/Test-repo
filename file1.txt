@@ -1,8 +1,8 @@
 hola timi 
 how are you
 i love you
-<<<<<<< HEAD
+
 you will get a distinction
-=======
+
 You will pass your exam i flying colors
->>>>>>> 3f1b85ab52294abd60d42e31499193eeb628df70
+
